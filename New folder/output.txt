@@ -1,0 +1,14 @@
+applications	1
+big	3
+data	3
+distributed	1
+example	1
+file	1
+hadoop	3
+hello	3
+mapreduce	2
+model	1
+processing	1
+programming	1
+system	1
+world	2
